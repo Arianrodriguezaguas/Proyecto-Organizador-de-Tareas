@@ -1,8 +1,7 @@
-# React + Vite
+<h1>Task Organizer</h1>
+<br>
+<br>
+<h2>This project I learned at <a href="https://rodofomori.com.br/devclub">DevClub</a> is my first project created using React + Vite. It is a very simple but very useful project.</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
